@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ThursdayTrivia2</string>
+    <string name="score">Score</string>
+    <string name="scoreAchieve">0/4</string>
+    <string name="you">You chose</string>
+    <string name="rock">Rock</string>
+    <string name="android">Android Chpse</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="jetpackCompose">#JetpackCompose</string>
+</resources>
